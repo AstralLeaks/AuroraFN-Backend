@@ -1,0 +1,5 @@
+{
+    "port": 3551,
+    "xmppPort": 559,
+    "db": "mongodb-uri"
+}
